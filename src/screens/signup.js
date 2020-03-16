@@ -22,8 +22,8 @@ class SignupScreen extends Component {
         super(props)
     }
 
-    attempLogin(){
-        this.username.current.value
+    attempSignup(){
+
     }
 
     render(){
@@ -95,4 +95,4 @@ class SignupScreen extends Component {
   
 }
 
-export default LoginScreen;
+export default SignupScreen;
